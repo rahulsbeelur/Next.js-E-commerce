@@ -1,2 +1,15 @@
-# Next.js-E-commerce
-E-commerce application with Next.js, Prisma and Tailwindcss
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
